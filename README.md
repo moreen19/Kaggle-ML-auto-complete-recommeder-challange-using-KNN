@@ -1,4 +1,4 @@
-# Kaggle-ML-auto-complete-recommeder-challenge-using-KNN
+# Kaggle-ML-auto-complete-recommeder-challenge-using-KNN.
 
 Building an auto-complete feature for citizen science checklist submissions(Group project)
 
